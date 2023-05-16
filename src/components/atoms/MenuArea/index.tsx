@@ -4,9 +4,7 @@ import { MenuAreaStyled } from './styled.module';
 
 const MenuArea = () => {
   return (
-    <MenuAreaStyled>
-      Menu
-    </MenuAreaStyled>
+    <MenuAreaStyled />
   );
 };
 
